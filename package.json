@@ -16,7 +16,7 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/vaso2/nuxt-vue-material",
+  "repository": "https://github.com/marqbeniamin/vue-material.git",
   "homepage": "https://github.com/vaso2/nuxt-vue-material/tree/master",
   "publishConfig": {
     "access": "public"
